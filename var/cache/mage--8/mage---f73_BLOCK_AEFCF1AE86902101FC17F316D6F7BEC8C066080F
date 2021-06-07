@@ -1,0 +1,16 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1622890881;s:6:"expire";i:1622894481;s:4:"tags";s:119:"f73_BLOCK_HTML,f73_CAT_C,f73_CAT_C_3,f73_CAT_C_4,f73_CAT_C_5,f73_CAT_C_7,f73_CAT_C_8,f73_CAT_C_19,f73_CAT_C_20,f73_MAGE";}
+a:2:{s:8:"policies";a:1:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:5:{s:44:"F0isc/1HxN+BGZqbGZFUhBFMiwJYskKDHnapFuVPLwA=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"wP8jUQu6vSWwrrKpIt7NsUa9nuaS41ZzOafvvH7qT2U=";s:6:"sha256";}}}s:4:"html";s:2449:"
+<nav class="navigation" role="navigation">
+    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+                    <li class="level0 level-top  active ">
+                <a class="level-top" href="http://localhost/">
+                    Home
+                </a>
+            </li>
+                <li  class="level0 nav-1 category-item first level-top parent"><a href="http://localhost/dien-thoai.html"  class="level-top" ><span>Điện thoại</span></a><ul class="level0 submenu"><li  class="level1 nav-1-1 category-item first"><a href="http://localhost/dien-thoai/apple.html" ><span>Apple</span></a></li><li  class="level1 nav-1-2 category-item"><a href="http://localhost/dien-thoai/samsung.html" ><span>Samsung</span></a></li><li  class="level1 nav-1-3 category-item"><a href="http://localhost/dien-thoai/oppo.html" ><span>Oppo</span></a></li><li  class="level1 nav-1-4 category-item last"><a href="http://localhost/dien-thoai/xiaomi.html" ><span>Xiaomi</span></a></li></ul></li><li  class="level0 nav-2 category-item level-top parent"><a href="http://localhost/lap-top.html"  class="level-top" ><span>Laptop</span></a><ul class="level0 submenu"><li  class="level1 nav-2-1 category-item first"><a href="http://localhost/lap-top/dell.html" ><span>Asus</span></a></li><li  class="level1 nav-2-2 category-item"><a href="http://localhost/lap-top/macbook.html" ><span>MacBook</span></a></li><li  class="level1 nav-2-3 category-item last"><a href="http://localhost/lap-top/lenovo.html" ><span>Lenovo</span></a></li></ul></li><li  class="level0 nav-3 category-item level-top"><a href="http://localhost/tablet.html"  class="level-top" ><span>Tablet</span></a></li><li  class="level0 nav-4 category-item level-top"><a href="http://localhost/dong-ho.html"  class="level-top" ><span>Đồng hồ</span></a></li><li  class="level0 nav-5 category-item level-top"><a href="http://localhost/sim-the-cao.html"  class="level-top" ><span>Pin sạc dự phòng</span></a></li><li  class="level0 nav-6 category-item level-top"><a href="http://localhost/exrate.html"  class="level-top" ><span>Tỉ giá tiền tệ</span></a></li><li  class="level0 nav-7 category-item last level-top"><a href="http://localhost/economicnews.html"  class="level-top" ><span>Tin tức kinh tế</span></a></li>    </ul>
+</nav>
+<style>
+.navigation .level0 .submenu li.parent > a::after {
+    display:none;
+}
+</style>";}

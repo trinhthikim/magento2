@@ -1,0 +1,381 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1622890881;s:6:"expire";i:1622977281;s:4:"tags";s:98:"f73_CAT_P,f73_BLOCK_HTML,f73_CAT_P_49,f73_CAT_P_48,f73_CAT_P_47,f73_CAT_P_46,f73_CAT_P_45,f73_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:16:{s:44:"F0isc/1HxN+BGZqbGZFUhBFMiwJYskKDHnapFuVPLwA=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"wP8jUQu6vSWwrrKpIt7NsUa9nuaS41ZzOafvvH7qT2U=";s:6:"sha256";s:44:"jDDF3ysSMC65YAJMUN1xo/7yyxBi4/QKWL5Qlp3gi1I=";s:6:"sha256";s:44:"qA8pd+TvsqSIGI3z1T3BuOThP5IcdnJu4CXcvhvkKZo=";s:6:"sha256";s:44:"OZpwTU7F9jA7ST+3+7duZjN8o1p92as/VfM8bhu4+Cc=";s:6:"sha256";s:44:"7NYt8oJr2yOQV5/4DdhW6dp2/TsngU/xhoLbC2Xdd10=";s:6:"sha256";s:44:"T9P/tkIS20chm/82f0PfFqKo5Pto6PEm/ktb4/Ep9r0=";s:6:"sha256";s:44:"r9IInOffbA1DVS2YEkj2FxZJGbNrIfcA6r2yUStqNtA=";s:6:"sha256";s:44:"NEtzjAj+8hd+Ln0ZM3IKzrUMeIoRxI3hitZ5TzUPOpw=";s:6:"sha256";s:44:"g/2yRxLTyIzN003xIQuVz0f4mrPCd/uhw8fIyuGNccI=";s:6:"sha256";s:44:"wqGWKJuKFWZ+3PQjlcJS9VShfPl9HWfwjiPhynvMGgE=";s:6:"sha256";s:44:"2pSi3/3get2ZiGIlmgjSAhiAmurFnNUrQWe5XskYOsQ=";s:6:"sha256";s:44:"zzbrGkI6GysWTW8MZ3aNP1y4CiZQWDHTbTfnem68/uo=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:10:{s:44:"3pRwEXVk5BuXxG6ixM0Y8csTXW66NbgLWgyyXMR/lhU=";s:6:"sha256";s:44:"wnEmYnscXWdcRLrIjB+eU99fltAdjVU/6vLANrqNd0w=";s:6:"sha256";s:44:"OVGzEgYRk6kKx1XoQaJi0IwUFr+5auK4Thk2LKI4UJM=";s:6:"sha256";s:44:"1phmJHezeZdNLopbOWTzAleTKqT/Ym+xqI5ObvNrb/Q=";s:6:"sha256";s:44:"9Njl+des/7Zu3XwbAqIG22OiriHv3Ask2w+UcF+KVfQ=";s:6:"sha256";s:44:"Kt3+V1bXhMk/2j9zJ3BlHpcLN8WL6/LVklE8fQjH3A0=";s:6:"sha256";s:44:"Gn2kX3F7xfkXi1JSQpW26dLdJzyJq78OFAXKhOI4eEI=";s:6:"sha256";s:44:"SyNbf54Cv+0Hjz2X9UcHIqOdcrVFqHMsD+xjBc1S0Qc=";s:6:"sha256";s:44:"ErcemdghDzOVswvo4skMJUXsA4K/blCpbViDJVDxDYo=";s:6:"sha256";s:44:"1/Mcu0v7p/tOUC24uJQeCBVB22MteJOniRJELwdC/6k=";s:6:"sha256";}}}s:4:"html";s:29500:"        <div class="block pad-main-product">
+                    <div class="block-title-main">
+                <h2 role="heading" aria-level="2">Điện thoại nổi bật</h2>
+                <div class="title-border"></div>
+            </div>
+                <div style="margin-bottom: 0;float: left;width:100%;" class="block widget block-products-list grid">
+            <div class="block-content">
+                <!-- new_products_content_widget_grid-->                <div class="products-grid grid">
+                    <ol style="margin: 0;" class="product-items widget-product-grid">
+                                                                            <li class="product-item">                            <div class="product-item-info">
+                                <div class="product-img-block">
+                                    <a href="http://localhost/xiaomi-redmi-note-10-4gb-64gb.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-49">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/f49dcf5bc122526157bec139fb0d5a13/1/0/10.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Xiaomi&#x20;Redmi&#x20;Note&#x20;10&#x20;&#x28;4GB&#x2F;64GB&#x29;"/></span>
+</span>
+<style>.product-image-container-49 {
+    width: 300px;
+}
+.product-image-container-49 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-49");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-49  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                                        <div class="pro-overlay"></div>
+                                    </a>
+
+                                                                            <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                    data-post='{"action":"http:\/\/localhost\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/49\/","data":{"product":"49","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                                    type="button" title="Add to Cart">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/wishlist\/index\/add\/","data":{"product":49,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/catalog\/product_compare\/add\/","data":{"product":"49","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Xiaomi Redmi Note 10 (4GB/64GB)"
+                                           href="http://localhost/xiaomi-redmi-note-10-4gb-64gb.html"
+                                           class="product-item-link">
+                                            Xiaomi Redmi Note 10 (4GB/64GB)                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="49" data-price-box="product-id-49">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-49-widget-product-grid"                data-price-amount="4490000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">4.490.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                                                </div>
+                            </div>
+                                                                                </li><li class="product-item">                            <div class="product-item-info">
+                                <div class="product-img-block">
+                                    <a href="http://localhost/redmi-note-9s.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-48">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/f49dcf5bc122526157bec139fb0d5a13/9/_/9_1.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Redmi&#x20;Note&#x20;9S"/></span>
+</span>
+<style>.product-image-container-48 {
+    width: 300px;
+}
+.product-image-container-48 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-48");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-48  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                                        <div class="pro-overlay"></div>
+                                    </a>
+
+                                                                            <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                    data-post='{"action":"http:\/\/localhost\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/48\/","data":{"product":"48","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                                    type="button" title="Add to Cart">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/wishlist\/index\/add\/","data":{"product":48,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/catalog\/product_compare\/add\/","data":{"product":"48","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Redmi Note 9S"
+                                           href="http://localhost/redmi-note-9s.html"
+                                           class="product-item-link">
+                                            Redmi Note 9S                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="48" data-price-box="product-id-48">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-48-widget-product-grid"                data-price-amount="4790000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">4.790.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                                                </div>
+                            </div>
+                                                                                </li><li class="product-item">                            <div class="product-item-info">
+                                <div class="product-img-block">
+                                    <a href="http://localhost/xiaomi-redmi-note-9-pro-6gb-64gb.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-47">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/f49dcf5bc122526157bec139fb0d5a13/8/_/8_1.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Xiaomi&#x20;Redmi&#x20;Note&#x20;9&#x20;Pro&#x20;&#x28;6GB&#x2F;64GB&#x29;"/></span>
+</span>
+<style>.product-image-container-47 {
+    width: 300px;
+}
+.product-image-container-47 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-47");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-47  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                                        <div class="pro-overlay"></div>
+                                    </a>
+
+                                                                            <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                    data-post='{"action":"http:\/\/localhost\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/47\/","data":{"product":"47","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                                    type="button" title="Add to Cart">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/wishlist\/index\/add\/","data":{"product":47,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/catalog\/product_compare\/add\/","data":{"product":"47","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Xiaomi Redmi Note 9 Pro (6GB/64GB)"
+                                           href="http://localhost/xiaomi-redmi-note-9-pro-6gb-64gb.html"
+                                           class="product-item-link">
+                                            Xiaomi Redmi Note 9 Pro (6GB/64GB)                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="47" data-price-box="product-id-47">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-47-widget-product-grid"                data-price-amount="5190000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">5.190.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                                                </div>
+                            </div>
+                                                                                </li><li class="product-item">                            <div class="product-item-info">
+                                <div class="product-img-block">
+                                    <a href="http://localhost/xiaomi-redmi-note-9-pro-6gb-128gb.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-46">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/f49dcf5bc122526157bec139fb0d5a13/7/_/7_1.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Xiaomi&#x20;Redmi&#x20;Note&#x20;9&#x20;Pro&#x20;&#x28;6GB&#x2F;128GB&#x29;"/></span>
+</span>
+<style>.product-image-container-46 {
+    width: 300px;
+}
+.product-image-container-46 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-46");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-46  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                                        <div class="pro-overlay"></div>
+                                    </a>
+
+                                                                            <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                    data-post='{"action":"http:\/\/localhost\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/46\/","data":{"product":"46","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                                    type="button" title="Add to Cart">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/wishlist\/index\/add\/","data":{"product":46,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/catalog\/product_compare\/add\/","data":{"product":"46","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Xiaomi Redmi Note 9 Pro (6GB/128GB)"
+                                           href="http://localhost/xiaomi-redmi-note-9-pro-6gb-128gb.html"
+                                           class="product-item-link">
+                                            Xiaomi Redmi Note 9 Pro (6GB/128GB)                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="46" data-price-box="product-id-46">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-46-widget-product-grid"                data-price-amount="5590000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">5.590.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                                                </div>
+                            </div>
+                                                                                </li><li class="product-item">                            <div class="product-item-info">
+                                <div class="product-img-block">
+                                    <a href="http://localhost/xiaomi-poco-x3-nfc.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-45">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/f49dcf5bc122526157bec139fb0d5a13/6/_/6_1.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Xiaomi&#x20;POCO&#x20;X3&#x20;NFC"/></span>
+</span>
+<style>.product-image-container-45 {
+    width: 300px;
+}
+.product-image-container-45 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-45");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-45  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                                        <div class="pro-overlay"></div>
+                                    </a>
+
+                                                                            <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                    data-post='{"action":"http:\/\/localhost\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/45\/","data":{"product":"45","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                                    type="button" title="Add to Cart">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/wishlist\/index\/add\/","data":{"product":45,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/catalog\/product_compare\/add\/","data":{"product":"45","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Xiaomi POCO X3 NFC"
+                                           href="http://localhost/xiaomi-poco-x3-nfc.html"
+                                           class="product-item-link">
+                                            Xiaomi POCO X3 NFC                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="45" data-price-box="product-id-45">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-45-widget-product-grid"                data-price-amount="5999000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">5.999.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                                                </div>
+                            </div>
+                            </li>                                            </ol>
+                </div>
+                            </div>
+        </div>
+    </div>
+";}

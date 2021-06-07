@@ -1,0 +1,381 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1622890881;s:6:"expire";i:1622977281;s:4:"tags";s:103:"f73_CAT_P,f73_BLOCK_HTML,f73_CAT_P_109,f73_CAT_P_108,f73_CAT_P_107,f73_CAT_P_106,f73_CAT_P_105,f73_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:11:{s:44:"F0isc/1HxN+BGZqbGZFUhBFMiwJYskKDHnapFuVPLwA=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"wP8jUQu6vSWwrrKpIt7NsUa9nuaS41ZzOafvvH7qT2U=";s:6:"sha256";s:44:"jDDF3ysSMC65YAJMUN1xo/7yyxBi4/QKWL5Qlp3gi1I=";s:6:"sha256";s:44:"qA8pd+TvsqSIGI3z1T3BuOThP5IcdnJu4CXcvhvkKZo=";s:6:"sha256";s:44:"OZpwTU7F9jA7ST+3+7duZjN8o1p92as/VfM8bhu4+Cc=";s:6:"sha256";s:44:"7NYt8oJr2yOQV5/4DdhW6dp2/TsngU/xhoLbC2Xdd10=";s:6:"sha256";s:44:"T9P/tkIS20chm/82f0PfFqKo5Pto6PEm/ktb4/Ep9r0=";s:6:"sha256";s:44:"r9IInOffbA1DVS2YEkj2FxZJGbNrIfcA6r2yUStqNtA=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:5:{s:44:"3pRwEXVk5BuXxG6ixM0Y8csTXW66NbgLWgyyXMR/lhU=";s:6:"sha256";s:44:"wnEmYnscXWdcRLrIjB+eU99fltAdjVU/6vLANrqNd0w=";s:6:"sha256";s:44:"OVGzEgYRk6kKx1XoQaJi0IwUFr+5auK4Thk2LKI4UJM=";s:6:"sha256";s:44:"1phmJHezeZdNLopbOWTzAleTKqT/Ym+xqI5ObvNrb/Q=";s:6:"sha256";s:44:"9Njl+des/7Zu3XwbAqIG22OiriHv3Ask2w+UcF+KVfQ=";s:6:"sha256";}}}s:4:"html";s:29360:"        <div class="block pad-main-product">
+                    <div class="block-title-main">
+                <h2 role="heading" aria-level="2">Sản phẩm mới</h2>
+                <div class="title-border"></div>
+            </div>
+                <div style="margin-bottom: 0;float: left;width:100%;" class="block widget block-products-list grid">
+            <div class="block-content">
+                <!-- new_products_content_widget_grid-->                <div class="products-grid grid">
+                    <ol style="margin: 0;" class="product-items widget-product-grid">
+                                                                            <li class="product-item">                            <div class="product-item-info">
+                                <div class="product-img-block">
+                                    <a href="http://localhost/samsung-eb-p5300.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-109">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/f49dcf5bc122526157bec139fb0d5a13/5/0/50.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Samsung&#x20;EB-P5300"/></span>
+</span>
+<style>.product-image-container-109 {
+    width: 300px;
+}
+.product-image-container-109 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-109");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-109  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                                        <div class="pro-overlay"></div>
+                                    </a>
+
+                                                                            <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                    data-post='{"action":"http:\/\/localhost\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/109\/","data":{"product":"109","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                                    type="button" title="Add to Cart">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/wishlist\/index\/add\/","data":{"product":109,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/catalog\/product_compare\/add\/","data":{"product":"109","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Samsung EB-P5300"
+                                           href="http://localhost/samsung-eb-p5300.html"
+                                           class="product-item-link">
+                                            Samsung EB-P5300                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="109" data-price-box="product-id-109">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-109-widget-product-grid"                data-price-amount="1490000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">1.490.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                                                </div>
+                            </div>
+                                                                                </li><li class="product-item">                            <div class="product-item-info">
+                                <div class="product-img-block">
+                                    <a href="http://localhost/samsung-eb-p3300.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-108">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/f49dcf5bc122526157bec139fb0d5a13/4/9/49.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Samsung&#x20;EB-P3300"/></span>
+</span>
+<style>.product-image-container-108 {
+    width: 300px;
+}
+.product-image-container-108 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-108");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-108  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                                        <div class="pro-overlay"></div>
+                                    </a>
+
+                                                                            <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                    data-post='{"action":"http:\/\/localhost\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/108\/","data":{"product":"108","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                                    type="button" title="Add to Cart">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/wishlist\/index\/add\/","data":{"product":108,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/catalog\/product_compare\/add\/","data":{"product":"108","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Samsung EB-P3300"
+                                           href="http://localhost/samsung-eb-p3300.html"
+                                           class="product-item-link">
+                                            Samsung EB-P3300                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="108" data-price-box="product-id-108">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-108-widget-product-grid"                data-price-amount="990000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">990.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                                                </div>
+                            </div>
+                                                                                </li><li class="product-item">                            <div class="product-item-info">
+                                <div class="product-img-block">
+                                    <a href="http://localhost/ava-la-y65.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-107">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/f49dcf5bc122526157bec139fb0d5a13/4/8/48.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="AVA&#x20;LA&#x20;Y65"/></span>
+</span>
+<style>.product-image-container-107 {
+    width: 300px;
+}
+.product-image-container-107 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-107");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-107  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                                        <div class="pro-overlay"></div>
+                                    </a>
+
+                                                                            <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                    data-post='{"action":"http:\/\/localhost\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/107\/","data":{"product":"107","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                                    type="button" title="Add to Cart">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/wishlist\/index\/add\/","data":{"product":107,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/catalog\/product_compare\/add\/","data":{"product":"107","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="AVA LA Y65"
+                                           href="http://localhost/ava-la-y65.html"
+                                           class="product-item-link">
+                                            AVA LA Y65                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="107" data-price-box="product-id-107">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-107-widget-product-grid"                data-price-amount="280000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">280.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                                                </div>
+                            </div>
+                                                                                </li><li class="product-item">                            <div class="product-item-info">
+                                <div class="product-img-block">
+                                    <a href="http://localhost/mophie-10-000-mah-powerstation-xl.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-106">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/f49dcf5bc122526157bec139fb0d5a13/4/7/47.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Mophie&#x20;10.000&#x20;mAh&#x20;Powerstation&#x20;XL"/></span>
+</span>
+<style>.product-image-container-106 {
+    width: 300px;
+}
+.product-image-container-106 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-106");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-106  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                                        <div class="pro-overlay"></div>
+                                    </a>
+
+                                                                            <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                    data-post='{"action":"http:\/\/localhost\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/106\/","data":{"product":"106","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                                    type="button" title="Add to Cart">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/wishlist\/index\/add\/","data":{"product":106,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/catalog\/product_compare\/add\/","data":{"product":"106","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Mophie 10.000 mAh Powerstation XL"
+                                           href="http://localhost/mophie-10-000-mah-powerstation-xl.html"
+                                           class="product-item-link">
+                                            Mophie 10.000 mAh Powerstation XL                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="106" data-price-box="product-id-106">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-106-widget-product-grid"                data-price-amount="790000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">790.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                                                </div>
+                            </div>
+                                                                                </li><li class="product-item">                            <div class="product-item-info">
+                                <div class="product-img-block">
+                                    <a href="http://localhost/mophie-20-000-mah-powerstation-xxl.html" class="product-item-photo">
+                                        <span class="product-image-container product-image-container-105">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/media/catalog/product/cache/f49dcf5bc122526157bec139fb0d5a13/4/6/46.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Mophie&#x20;20.000&#x20;mAh&#x20;Powerstation&#x20;XXL"/></span>
+</span>
+<style>.product-image-container-105 {
+    width: 300px;
+}
+.product-image-container-105 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-105");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-105  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                                        <div class="pro-overlay"></div>
+                                    </a>
+
+                                                                            <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                    data-post='{"action":"http:\/\/localhost\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8%2C\/product\/105\/","data":{"product":"105","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                                    type="button" title="Add to Cart">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost\/wishlist\/index\/add\/","data":{"product":105,"uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/localhost\/catalog\/product_compare\/add\/","data":{"product":"105","uenc":"aHR0cDovL2xvY2FsaG9zdC8,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                                                    </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Mophie 20.000 mAh Powerstation XXL"
+                                           href="http://localhost/mophie-20-000-mah-powerstation-xxl.html"
+                                           class="product-item-link">
+                                            Mophie 20.000 mAh Powerstation XXL                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="105" data-price-box="product-id-105">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-105-widget-product-grid"                data-price-amount="1190000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">1.190.000,00 ₫</span></span>
+        </span>
+
+</div>
+                                                                                                                                                </div>
+                            </div>
+                            </li>                                            </ol>
+                </div>
+                            </div>
+        </div>
+    </div>
+";}

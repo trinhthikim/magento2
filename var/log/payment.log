@@ -1,0 +1,120 @@
+[2021-05-29 12:28:50] main.DEBUG: array (
+  'request' => 
+  array (
+    'appid' => '553',
+    'apptime' => 1622291325000,
+    'apptransid' => '210529_000000002',
+    'appuser' => 'trinhthikim',
+    'item' => '[{"itemid":"Hydrus PJ JP196","itemname":"Hydrus PJ JP196","itemprice":199000,"itemquantity":"1.0000"}]',
+    'embeddata' => '{"merchantinfo":"boolfly"}',
+    'amount' => 199005,
+    'description' => 'ZaloPay Integration for Magento 2',
+    'bankcode' => 'zalopayapp',
+    'mac' => '95b96eb940094cf9dbd275d0f1753bca1d50c575cff6cdf2ce5ac58073c475a1',
+  ),
+  'request_uri' => 'https://sandbox.zalopay.com.vn/v001/tpe/createorder',
+  'response' => 
+  array (
+    'zptranstoken' => '',
+    'orderurl' => '',
+    'returncode' => -53,
+    'returnmessage' => '',
+  ),
+) [] []
+[2021-05-29 12:31:36] main.DEBUG: array (
+  'request' => 
+  array (
+    'appid' => '553',
+    'apptime' => 1622291496000,
+    'apptransid' => '210529_000000003',
+    'appuser' => 'trinhthikim',
+    'item' => '[{"itemid":"\\u0110\\u1ed3ng h\\u1ed3 \\u0111\\u1ecbnh v\\u1ecb tr\\u1ebb em 4G Kidcare S8 \\u0110en","itemname":"\\u0110\\u1ed3ng h\\u1ed3 \\u0111\\u1ecbnh v\\u1ecb tr\\u1ebb em 4G Kidcare S8 \\u0110en","itemprice":2290000,"itemquantity":"1.0000"}]',
+    'embeddata' => '{"merchantinfo":"boolfly"}',
+    'amount' => 2290005,
+    'description' => 'ZaloPay Integration for Magento 2',
+    'bankcode' => 'zalopayapp',
+    'mac' => 'ec56939027228ba163daa5b685a24291f1f94454930975a864f4f14c4da1b3a4',
+  ),
+  'request_uri' => 'https://sandbox.zalopay.com.vn/v001/tpe/createorder',
+  'response' => 
+  array (
+    'zptranstoken' => '',
+    'orderurl' => '',
+    'returncode' => -53,
+    'returnmessage' => '',
+  ),
+) [] []
+[2021-05-29 12:58:39] main.DEBUG: array (
+  'request' => 
+  array (
+    'partnerCode' => '****',
+    'accessKey' => '****',
+    'requestId' => '1622293119000',
+    'amount' => '23280000',
+    'orderId' => '000000004',
+    'orderInfo' => 'Default Store View',
+    'returnUrl' => 'http://localhost/momo/payment/return/',
+    'notifyUrl' => 'http://localhost/momo/payment/ipn/',
+    'extraData' => 'merchantName=Momo Partner',
+    'signature' => '61a172b118a97d3507072b96089e9acf507e42f387923b1b2716c1d7b2248a72',
+    'requestType' => 'captureMoMoWallet',
+  ),
+  'request_uri' => 'https://test-payment.momo.vn/gw_payment/transactionProcessor',
+  'response' => 
+  array (
+    'errorCode' => 1,
+    'message' => 'Empty access key or partner code',
+    'localMessage' => 'Thiếu thông tin đối tác',
+  ),
+) [] []
+[2021-05-29 13:21:36] main.DEBUG: array (
+  'request' => 
+  array (
+    'partnerCode' => '****',
+    'accessKey' => '****',
+    'requestId' => '1622294495000',
+    'amount' => '5999000',
+    'orderId' => '000000005',
+    'orderInfo' => 'Default Store View',
+    'returnUrl' => 'http://localhost/momo/payment/return/',
+    'notifyUrl' => 'http://localhost/momo/payment/ipn/',
+    'extraData' => 'merchantName=Momo Partner',
+    'signature' => '0938d03ed4f4e6cac83cdc7a7b1344620b765f1956e24e231e89754995edcf7e',
+    'requestType' => 'captureMoMoWallet',
+  ),
+  'request_uri' => 'https://test-payment.momo.vn/gw_payment/transactionProcessor',
+  'response' => 
+  array (
+    'requestId' => '1622294495000',
+    'errorCode' => 0,
+    'orderId' => '000000005',
+    'message' => 'Success',
+    'localMessage' => 'Thành công',
+    'requestType' => 'captureMoMoWallet',
+    'payUrl' => 'https://test-payment.momo.vn/gw_payment/payment/qr?partnerCode=MOMODXQS20210529&accessKey=2bfQAZMZ9CuDShkr&requestId=1622294495000&amount=5999000&orderId=000000005&signature=c4e9396665800a10ec6b4a418d875f87e6b0daa46f1b26357abec1508fe3a7fe&requestType=captureMoMoWallet',
+    'signature' => '593609203a453196b722794085efcd186308f4ef136404358cb3d10932ce3c31',
+  ),
+) [] []
+[2021-05-29 14:32:26] main.DEBUG: array (
+  'request' => 
+  array (
+    'appid' => '553',
+    'apptime' => 1622298745000,
+    'apptransid' => '210529_000000006',
+    'appuser' => 'trinhthikim',
+    'item' => '[{"itemid":"\\u0110\\u1ed3ng h\\u1ed3 th\\u00f4ng minh \\u0111\\u1ecbnh v\\u1ecb tr\\u1ebb em 4G Kidcare S6 H\\u1ed3ng","itemname":"\\u0110\\u1ed3ng h\\u1ed3 th\\u00f4ng minh \\u0111\\u1ecbnh v\\u1ecb tr\\u1ebb em 4G Kidcare S6 H\\u1ed3ng","itemprice":1790000,"itemquantity":"1.0000"}]',
+    'embeddata' => '{"merchantinfo":"boolfly"}',
+    'amount' => 1820000,
+    'description' => 'ZaloPay Integration for Magento 2',
+    'bankcode' => 'zalopayapp',
+    'mac' => 'b120bbd8b6753e5825a3665380e62ef340871262c014067a580060b09ae2792c',
+  ),
+  'request_uri' => 'https://sandbox.zalopay.com.vn/v001/tpe/createorder',
+  'response' => 
+  array (
+    'zptranstoken' => '',
+    'orderurl' => '',
+    'returncode' => -53,
+    'returnmessage' => '',
+  ),
+) [] []
